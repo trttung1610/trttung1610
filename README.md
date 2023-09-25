@@ -10,7 +10,7 @@
 
 Let's shape a smarter future with AI! 🤖✨
 
-# 🔍 Skills 
+## 🔍 Skills 
 
  - ML/AI: Pytorch, Tensorflow, Keras, Scikit-learn, Numpy, Matplotlib
 
@@ -24,7 +24,7 @@ Let's shape a smarter future with AI! 🤖✨
 
  - Soft skills: Critical thinking, Computational thinking, Teamwork, Time management 
 
-#  Experiences
+## ✍️ Experiences
  - BKAI-NAVER Challenge 2022 :
    + Vietnamese Scene Text Detection and Recognition .
 
