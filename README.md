@@ -10,7 +10,7 @@
 
 Let's shape a smarter future with AI! 🤖✨
 
-# Skills 
+# 🔍 Skills 
 
 ML/AI: Pytorch, Tensorflow, Keras, Scikit-learn, Numpy, Matplotlib
 
