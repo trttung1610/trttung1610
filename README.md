@@ -9,3 +9,17 @@
 📧 Reach out at [trttung1610@gmail.com](mailto:trttung1610@gmail.com).
 
 Let's shape a smarter future with AI! 🤖✨
+
+# Skills 
+
+ML/AI: Pytorch, Tensorflow, Keras, Scikit-learn, Numpy, Matplotlib
+
+Programming languages: Python  C++ Bash Script
+
+Web: Django FastAPI Streamlit Gradio
+
+Databases and indexing: MS SQL Server MySQL MongoDB 
+
+Deployment: Docker 
+
+Soft skills: Critical thinking, Computational thinking, Teamwork, Time management
