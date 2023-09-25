@@ -18,7 +18,7 @@ Programming languages: Python  C++ Bash Script
 
 Web: Django FastAPI Streamlit Gradio
 
-Databases and indexing: MS SQL Server MySQL MongoDB 
+Databases and indexing: MS SQL Server MySQL PostgreSQL MongoDB 
 
 Deployment: Docker 
 
