@@ -1,4 +1,4 @@
-### 👋 Hey there, I'm Tung!
+## 👋 Hey there, I'm Tung!
 
 🚀 AI Engineer based in Vietnam.
 
