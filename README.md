@@ -22,4 +22,15 @@ Let's shape a smarter future with AI! 🤖✨
 
  - Deployment: Docker 
 
- - Soft skills: Critical thinking, Computational thinking, Teamwork, Time management
+ - Soft skills: Critical thinking, Computational thinking, Teamwork, Time management 
+
+#  Experiences
+ - BKAI-NAVER Challenge 2022 :
+   + Vietnamese Scene Text Detection and Recognition .
+
+ - FAIR - Fundamental and Applied Information Technology - FAIR'2023 :
+   + One of authors proposed ViCalligraphy: A Dataset for Vietnamese Calligraphy Text Recognition and Evaluations .
+     
+ - HO CHI MINH CITY AI-CHALLENGE 2022
+   + Second Prize in Event Retrieval from Visual Data task .
+  
