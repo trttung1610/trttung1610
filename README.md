@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tung, an AI Engineer based in Vietnam. Welcome to my GitHub profile! 🚀
+I'm Tung, an AI Engineer based in Vietnam ! 🚀
 
 - 🔭 I’m currently working at an AI Consultant Company in Vietnam, where I'm deeply involved in developing cutting-edge AI solutions.
 - 🌱 I’m also pursuing a degree in Computer Science at UIT (University of Information Technology - VNUHCM), continually expanding my knowledge and skills in the field.
