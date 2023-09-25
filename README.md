@@ -12,14 +12,14 @@ Let's shape a smarter future with AI! 🤖✨
 
 # 🔍 Skills 
 
-- ML/AI: Pytorch, Tensorflow, Keras, Scikit-learn, Numpy, Matplotlib
+ - ML/AI: Pytorch, Tensorflow, Keras, Scikit-learn, Numpy, Matplotlib
 
-- Programming languages: Python  C++ Bash Script
+ - Programming languages: Python  C++ Bash Script
 
-- Web: Django FastAPI Streamlit Gradio
+ - Web: Django FastAPI Streamlit Gradio
 
-- Databases and indexing: MS SQL Server MySQL PostgreSQL MongoDB 
+ - Databases and indexing: MS SQL Server MySQL PostgreSQL MongoDB 
 
-- Deployment: Docker 
+ - Deployment: Docker 
 
-- Soft skills: Critical thinking, Computational thinking, Teamwork, Time management
+ - Soft skills: Critical thinking, Computational thinking, Teamwork, Time management
