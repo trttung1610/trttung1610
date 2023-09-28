@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Tung!
 
-🚀 AI Engineer based in Vietnam.
+🚀 AI Engineer in Vietnam.
 
 🎓 Computer Science student at [UIT - University of Information Technology - VNUHCM](https://www.uit.edu.vn).
 
