@@ -32,5 +32,11 @@ Let's shape a smarter future with AI! 🤖✨
    + One of authors proposed ViCalligraphy: A Dataset for Vietnamese Calligraphy Text Recognition and Evaluations .
      
  - HO CHI MINH CITY AI-CHALLENGE 2022
-   + Second Prize in Event Retrieval from Visual Data task .
+   + Second Prize in Event Retrieval from Visual Data Final Competition .
+     
+ - HO CHI MINH CITY AI-CHALLENGE 2023
+   + Paticipant of Event Retrieval from Visual Final Data Competition.
+     
+ - BKAI-NAVER Challenge 2023 
+   + Vietnamese Scene Text Recognition .
   
