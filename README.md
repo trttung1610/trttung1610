@@ -8,7 +8,7 @@
 
 📧 Reach out at [Email](mailto:trttung1610@gmail.com) or [Upwork](https://www.upwork.com/freelancers/~01e6c98fda18585b47?s=1110580759050571776).
 
-Let's shape a smarter future with AI! 🤖✨
+
 
 ## 🔍 Skills 
 
